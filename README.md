@@ -35,7 +35,7 @@ Purpose: This module creates a complete list of the (proper) factors of a number
   
   n is an integer
 
-Purpose: This module returns the prime factors of a natural number n less than or equal to sqrt(n).
+Purpose: This module returns the prime factors of a natural number n less than or equal to $\sqrt{n}$ sqrt(n).
 </details>
 <details>
   <summary>
