@@ -42,8 +42,8 @@ Purpose: This module calculates half of the proper factors of a natural number n
     mersennerange:
   </summary>
   mersennerange(a,b)
-$a<b$ are integers
-This module provides the Mersenne primes within a bound between the two number 2^a - 1 and 2^b - 1 (inclusive).
+a\<b are integers
+This module provides the Mersenne primes within a bound between the two number 2\^a - 1 and 2\^b - 1 (inclusive).
 </details>
 <details>
   <summary>
@@ -89,7 +89,7 @@ Purpose: This module returns the list of primes from 2 up to n.
     primesrange:
   </summary>
   primesrange(a,b)
-a<b are integers
+a \< b are integers
 Purpose: This module lists the positive primes in a range from a to b.
 </details>
 <details>
@@ -98,7 +98,7 @@ Purpose: This module lists the positive primes in a range from a to b.
   </summary>
   sumfullproperfactors(n)
 n is an integer
-Purpose: This program finds the sum of the factors of a number n, including n.
+Purpose: This program finds the sum of the factors of a number $n$, including n.
 </details>
 <details>
   <summary>
