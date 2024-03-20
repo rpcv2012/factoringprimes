@@ -125,7 +125,7 @@ Purpose: This module lists the positive primes in a range from a to b.
   
 n is an integer
 
-Purpose: This program finds the sum of the factors of a number $n$, including n.
+Purpose: This program finds the sum of the factors of a number n, including n.
 </details>
 <details>
   <summary>
@@ -134,7 +134,7 @@ Purpose: This program finds the sum of the factors of a number $n$, including n.
   sumfullproperfactorsrange(a,b)
   
   
- $a $<$ $b$ are integers
+ a < b are integers
 
 Purpose: This module calculates the sum of the factors of every number in a given range a to b.
 </details>
