@@ -1,7 +1,7 @@
 # factoringprimes
 <details>
   <summary>factors:</summary>
-  factors(n)
+factors(n)
   
 n is an integer
 
@@ -12,7 +12,7 @@ Purpose: This code generates the factors of a (natural) number n.
     fullprimefactors:
   </summary>
   
-  fullprimefactors(n)
+fullprimefactors(n)
   
 n is an integer
 
@@ -22,20 +22,21 @@ Purpose: This module returns the prime factors of a natural number n.
   <summary>
     fullproperfactors:
   </summary>
-  fullproperfactors(n) 
   
+fullproperfactors(n) 
   
-  n is an integer
+n is an integer
 
-  Purpose: This module creates a complete list of the (proper) factors of a number n and includes the number 'n' as well.
+Purpose: This module creates a complete list of the (proper) factors of a number n and includes the number 'n' as well.
 </details>
 <details>
   <summary>
     halfprimefactors:
   </summary>
-  halfprimefactors(n)
   
-  n is an integer
+halfprimefactors(n)
+  
+n is an integer
 
 Purpose: This module returns the prime factors of a natural number n less than or equal to $\sqrt{n}$ sqrt(n).
 </details>
