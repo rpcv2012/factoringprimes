@@ -33,7 +33,7 @@ Purpose: This module creates a complete list of the (proper) factors of a number
   </summary>
   halfprimefactors(n)
   
-n is an integer
+  n is an integer
 
 Purpose: This module returns the prime factors of a natural number n less than or equal to sqrt(n).
 </details>
@@ -43,7 +43,7 @@ Purpose: This module returns the prime factors of a natural number n less than o
   </summary>
   halfproperfactors(n)
   
-n is an integer
+  n is an integer
 
 Purpose: This module calculates half of the proper factors of a natural number n from 1 (one) up to sqrt(n).
 </details>
@@ -73,7 +73,7 @@ Purpose: This module gives the number of prime factors of a number n.
   </summary>
   numprimfactrange (a,b)
   
-$a<b$ are integers
+  a < b are integers
 
 Purpose: This module gives the number of prime factors for a list of numbers in a range from a to b.
 </details>
@@ -113,7 +113,7 @@ Purpose: This module returns the list of primes from 2 up to n.
   </summary>
   primesrange(a,b)
   
-$a < b$ are integers
+  a < b are integers
      
 Purpose: This module lists the positive primes in a range from a to b.
 </details>
@@ -132,6 +132,7 @@ Purpose: This program finds the sum of the factors of a number $n$, including n.
     sumfullproperfactorsrange:
   </summary>
   sumfullproperfactorsrange(a,b)
+  
   
  a < b are integers
 
