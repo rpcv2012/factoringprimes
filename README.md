@@ -11,6 +11,7 @@ Purpose: This code generates the factors of a (natural) number n.
   <summary>
     fullprimefactors:
   </summary>
+  
   fullprimefactors(n)
   
 n is an integer
