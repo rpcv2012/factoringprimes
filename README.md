@@ -1,6 +1,7 @@
 # factoringprimes
 <details>
   <summary>factors:</summary>
+  
 factors(n)
   
 n is an integer
@@ -44,9 +45,10 @@ Purpose: This module returns the prime factors of a natural number n less than o
   <summary>
     halfproperfactors:
   </summary>
-  halfproperfactors(n)
   
-  n is an integer
+halfproperfactors(n)
+  
+n is an integer
 
 Purpose: This module calculates half of the proper factors of a natural number n from 1 (one) up to sqrt(n).
 </details>
@@ -54,7 +56,8 @@ Purpose: This module calculates half of the proper factors of a natural number n
   <summary>
     mersennerange:
   </summary>
-  mersennerange(a,b)
+  
+mersennerange(a,b)
   
 a < b are integers
 
@@ -64,7 +67,8 @@ This module provides the Mersenne primes within a bound between the two number 2
   <summary>
     numberofprimefactors:
   </summary>
-  numberofprimefactors(n)
+  
+numberofprimefactors(n)
   
 n is an integer
 
@@ -74,9 +78,10 @@ Purpose: This module gives the number of prime factors of a number n.
   <summary>
     numprimfactrange:
   </summary>
-  numprimfactrange (a,b)
   
-  a < b are integers
+numprimfactrange (a,b)
+  
+a < b are integers
 
 Purpose: This module gives the number of prime factors for a list of numbers in a range from a to b.
 </details>
@@ -84,7 +89,8 @@ Purpose: This module gives the number of prime factors for a list of numbers in 
   <summary>
     prime:
   </summary>
-  prime(n)
+  
+prime(n)
   
 n is an integer
 
@@ -94,7 +100,8 @@ Purpose: This module returns true (1) if n is prime, otherwise false (0).
   <summary>
     primefactors:
   </summary>
-  primefactors(n)
+  
+primefactors(n)
   
 n is an integer
 
@@ -104,9 +111,10 @@ Purpose: This gives a list of the prime factors of a number. If the number is pr
   <summary>
     primes:
   </summary>
-  primes(n)
   
-  n is an integer
+primes(n)
+  
+n is an integer
   
 Purpose: This module returns the list of primes from 2 up to n.
 </details>
@@ -114,9 +122,10 @@ Purpose: This module returns the list of primes from 2 up to n.
   <summary>
     primesrange:
   </summary>
-  primesrange(a,b)
   
-  a < b are integers
+primesrange(a,b)
+  
+a < b are integers
      
 Purpose: This module lists the positive primes in a range from a to b.
 </details>
@@ -124,7 +133,8 @@ Purpose: This module lists the positive primes in a range from a to b.
   <summary>
     sumfullproperfactors:
   </summary>
-  sumfullproperfactors(n)
+  
+sumfullproperfactors(n)
   
 n is an integer
 
@@ -134,10 +144,10 @@ Purpose: This program finds the sum of the factors of a number n, including n.
   <summary>
     sumfullproperfactorsrange:
   </summary>
-  sumfullproperfactorsrange(a,b)
   
+sumfullproperfactorsrange(a,b)
   
- a < b are integers
+a < b are integers
 
 Purpose: This module calculates the sum of the factors of every number in a given range a to b.
 </details>
