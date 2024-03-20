@@ -53,7 +53,7 @@ Purpose: This module calculates half of the proper factors of a natural number n
   </summary>
   mersennerange(a,b)
   
-$a<b$ are integers
+a < b are integers
 
 This module provides the Mersenne primes within a bound between the two number 2\^a - 1 and 2\^b - 1 (inclusive).
 </details>
@@ -134,7 +134,7 @@ Purpose: This program finds the sum of the factors of a number $n$, including n.
   sumfullproperfactorsrange(a,b)
   
   
- a < b are integers
+ $a $<$ $b$ are integers
 
 Purpose: This module calculates the sum of the factors of every number in a given range a to b.
 </details>
