@@ -21,7 +21,8 @@ Purpose: This module returns the prime factors of a natural number n.
   <summary>
     fullproperfactors:
   </summary>
-  fullproperfactors(n)  
+  fullproperfactors(n) 
+  
   
   n is an integer
 
