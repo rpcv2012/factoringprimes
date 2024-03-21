@@ -7,6 +7,7 @@ These modules have been written in Python, originally in Python 2.7.5.1 and then
 ## Motivation and Use: 
 I began writing these files to have desktop access to factoring software.
 Also, my research involved identifying primes and their multiples. 
+
 So the modules in this folder (factoringprimes) have the function of finding a numbers proper and prime factors, finding primes in a given range and related computations.
 
 ## Description: 
@@ -17,9 +18,11 @@ This folder (project) contains a number of Python modules which are interdepende
 These modules have not been formatted into a Python package.
 
 To run the programs, do the following:
+
 1. Download the folder. 
 
 If the folder is not automatically incorporated into your Python path, then
+
 2. Add the folder to the path using the following code (for an individual session):
 
 import sys
@@ -29,9 +32,11 @@ If this call to sys.path.append does not work, you may need to use a call to ide
 sys.path.append('path/to/factoringprimes')
 
 Once the folder (directory) is in your Python path, you can 
+
 3. Import each module in the customary way in your Python executable screen:
 
 import module
+
 from module import module
 
 In this folder, each module name matches the folder name. Here is an example:
@@ -39,13 +44,15 @@ In this folder, each module name matches the folder name. Here is an example:
 To import the module fullprimefactors, use the following code:
 
 import fullprimefactors
+
 from fullprimefactors import fullprimefactors
 
 You should be able to run any module following these steps.
 
 ## Calling each Module:
 The information below describes how to call each module and the specific calculation each module performs.
-You can find this information in each separate python module (open with Idle).
+
+You can find this information in each separate python module ('edit' with Idle).
 For convenience it is included below.
 The modules are described in alphabetical order.
 
